@@ -1,0 +1,7 @@
+v/net/pcnet/0: Send DHCP_DISCOVER to 255.255.255.255:67
+DAEMON 'DHCP': /dev/net/pcnet/0: Send DHCP_REQUEST to 255.255.255.255:67
+DAEMON 'DHCP': /dev/net/pcnet/0: Send DHCP_DISCOVER to 255.255.255.255:67
+DAEMON 'DHCP': /dev/net/pcnet/0: Send DHCP_REQUEST to 255.255.255.255:67
+DAEMON 'DHCP': /dev/net/pcnet/0: Send DHCP_DISCOVER to 255.255.255.255:67
+DAEMON 'DHCP': /dev/net/pcnet/0: Send DHCP_REQUEST to 255.255.255.255:67
+DAEMON 'DHCP': /dev/net
